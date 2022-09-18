@@ -1,0 +1,4 @@
+20220912 - Python - Resources
+
+
+This is an introductory lecture to the course.
