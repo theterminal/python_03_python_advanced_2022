@@ -1,4 +1,4 @@
-20220912 - Python - Resources
+20220912 - Python - Python Advanced - Resources
 
 
 This is an introductory lecture to the course.
