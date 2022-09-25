@@ -1,0 +1,4 @@
+20220912 - Python - Python Advanced - Course Introduction
+
+
+This is an introductory lecture to the course.
