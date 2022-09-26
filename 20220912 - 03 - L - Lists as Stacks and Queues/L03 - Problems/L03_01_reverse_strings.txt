@@ -8,10 +8,8 @@ Write program that:
 •	Prints the result back on the console
 
 
------------------------------------------
+---------- Test Data --------------------
 
-
-Examples:
 
 Input 1:
 -------
