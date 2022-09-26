@@ -1,0 +1,37 @@
+20220912 - Python - Python Advanced - Lists as Stacks and Queues
+
+
+--------------------- stacks -----------------------
+
+
+stack = []          -> stack is a list in Python
+
+push                -> is operation of adding an element to the stack
+stack.append(23)
+
+pop                 -> is operation removing the last element of the stack
+stack.pop()
+
+peek                -> is operation to check the last element of the stack
+print(stack[-1])
+
+count / size        -> is operation to check the number of the elements in the stack
+print(len(stack))
+
+is_empty()          -> count == 0
+
+What is time complexity:
+https://wiki.python.org/moin/TimeComplexity
+
+
+----------------------------- queue ----------------------------
+
+
+enqueue -> 0(1)
+dequeue -> 0(1)
+
+append()
+popleft()
+
+from collections import deque
+q = deque()
