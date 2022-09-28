@@ -1,0 +1,37 @@
+20220913 - Python - Python Advanced - Lists as Stacks and Queues
+01 - Reverse Strings - judge url: https://judge.softuni.org/Contests/Practice/Index/1830#0
+
+
+Write a program that reads a string with N integers from the console,
+separated by a single space, and reverses them using a stack.
+
+Print the reversed integers on one line, separated by a single space.
+
+
+______________ Test Data _______________
+
+
+Input 1:
+-------
+1 2 3 4 5
+
+
+Output 1:
+--------
+5 4 3 2 1
+
+
+----------------------------------------
+
+
+Input 2:
+-------
+1
+
+
+Output 2:
+--------
+1
+
+
+----------------------------------------
