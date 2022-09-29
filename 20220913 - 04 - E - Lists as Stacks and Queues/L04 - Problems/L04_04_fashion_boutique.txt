@@ -1,5 +1,5 @@
 20220913 - Python - Python Advanced - Lists as Stacks and Queues
-04 - Fashion Boutique - judge url: https://judge.softuni.org/Contests/Practice/Index/1830#3
+04 - Fashion Boutique - https://judge.softuni.org/Contests/Compete/Index/1831#3
 
 
 You own a fashion boutique and receive a delivery of a huge box of clothes, represented as a sequence of integers.
