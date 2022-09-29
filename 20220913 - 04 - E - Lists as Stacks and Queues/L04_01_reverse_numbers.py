@@ -1,5 +1,5 @@
 # 20220913 - Python - Python Advanced - Lists as Stacks and Queues
-# 01 - Reverse Strings - judge url: https://judge.softuni.org/Contests/Practice/Index/1830#0
+# 01 - Reverse Strings - judge url: https://judge.softuni.org/Contests/Compete/Index/1831#0
 
 
 # ___________ version 1 ____________ judge 100%
