@@ -1,5 +1,5 @@
 20220913 - Python - Python Advanced - Lists as Stacks and Queues
-05 - Truck Tour - judge url: https://judge.softuni.org/Contests/Practice/Index/1830#4
+05 - Truck Tour - judge url: https://judge.softuni.org/Contests/Compete/Index/1831#4
 
 
 There is a circle road with N petrol pumps. The petrol pumps are numbered 0 to (N−1) (both inclusive).
