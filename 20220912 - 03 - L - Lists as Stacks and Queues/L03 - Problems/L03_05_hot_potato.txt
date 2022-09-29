@@ -1,0 +1,71 @@
+# 20220912 - Python - Python Advanced - Lists as Stacks and Queues
+# 05 - Hot Potato - judge url: https://judge.softuni.org/Contests/Practice/Index/1830#4
+
+
+Hot Potato is a game in which children form a circle and toss a hot potato.
+The counting starts with the first kid.
+Every nth toss, the child holding the potato leaves the game.
+When a kid leaves the game, it passes the potato to the next kid.
+It continues until there is only one kid left.
+
+Create a program that simulates the game of Hot Potato.
+On the first line, you will receive kids' names, separated by a single space.
+On the second line, you will receive the 'n'-th toss (integer) in which a child leaves the game.
+
+Print every kid who is removed from the circle in the format "Removed {kid}".
+In the end, print the only kid left in the format "Last is {kid}"
+
+
+_______________ Test Data __________________
+
+
+Input 1:
+-------
+Tracy Emily Daniel
+2
+
+
+Output 1:
+--------
+Removed Emily
+Removed Tracy
+Last is Daniel
+
+
+--------------------------------------------
+
+
+Input 2:
+-------
+George Peter Michael William Thomas
+10
+
+
+Output 2:
+--------
+Removed Thomas
+Removed Peter
+Removed Michael
+Removed George
+Last is William
+
+
+--------------------------------------------
+
+
+Input 3:
+-------
+George Peter Michael William Thomas
+1
+
+
+Output 3:
+--------
+Removed George
+Removed Peter
+Removed Michael
+Removed William
+Last is Thomas
+
+
+-------------------------------------------
