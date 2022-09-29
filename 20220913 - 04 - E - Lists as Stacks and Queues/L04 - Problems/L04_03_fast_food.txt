@@ -1,5 +1,5 @@
 20220913 - Python - Python Advanced - Lists as Stacks and Queues
-03 - Fast Food - judge url: https://judge.softuni.org/Contests/Practice/Index/1830#2
+03 - Fast Food - judge url: https://judge.softuni.org/Contests/Compete/Index/1831#2
 
 
 You have a fast-food restaurant, and the food you are offering is previously prepared.
