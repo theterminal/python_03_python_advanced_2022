@@ -1,0 +1,77 @@
+20220915 - Python - Python Advanced - Tuples and Sets
+03 - Unique Names - judge url: https://judge.softuni.org/Contests/Practice/Index/1832#2
+
+
+Write a program, which will take a list of names and print only the unique names in the list.
+The order in which we print the result does not matter.
+
+
+___________ Test Data ___________
+
+
+Input 1:
+-------
+8
+Lee
+Joey
+Lee
+Joe
+Alan
+Alan
+Peter
+Joey
+
+
+Output 1:
+--------
+Alan
+Joey
+Lee
+Joe
+Peter
+
+
+---------------------------------
+
+
+Input 2:
+-------
+7
+Lyle
+Bruce
+Alice
+Easton
+Shawn
+Alice
+Shawn
+
+
+Output 2:
+--------
+Easton
+Lyle
+Alice
+Bruce
+Shawn
+
+
+----------------------------------
+
+
+Input 3:
+-------
+6
+Adam
+Adam
+Adam
+Adam
+Adam
+Adam
+
+
+Output 2:
+--------
+Adam
+
+
+----------------------------------
