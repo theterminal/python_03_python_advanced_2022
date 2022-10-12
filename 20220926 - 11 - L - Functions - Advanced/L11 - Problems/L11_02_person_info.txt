@@ -1,0 +1,25 @@
+20220926 - Python - Python Advanced - Functions Advanced
+02 - Person Info - judge url: https://judge.softuni.org/Contests/Practice/Index/1838#1
+
+Write a function called get_info that receives a name, an age, and a town and returns a string in the format:
+"This is {name} from {town} and he is {age} years old”.
+
+Use dictionary unpacking when testing your function.
+
+Submit only the function in the judge system.
+
+
+___________ Test Data ____________
+
+
+Input 1:
+-------
+print(get_info(**{"name": "George", "town": "Sofia", "age": 20}))
+
+
+Output 1:
+--------
+This is George from Sofia and he is 20 years old
+
+
+----------------------------------
