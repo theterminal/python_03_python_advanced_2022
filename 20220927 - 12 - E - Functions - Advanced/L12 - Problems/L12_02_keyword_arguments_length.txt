@@ -1,0 +1,39 @@
+20220927 - Python - Python Advanced - Functions Advanced
+02 - Keyword Arguments Length - judge url: https://judge.softuni.org/Contests/Compete/Index/1839#1
+
+
+Create a function called kwargs_length() that can receive some keyword arguments and return their length.
+Submit only your function in the judge system.
+
+
+________________ Test Data _________________
+
+
+Input 1:
+-------
+dictionary = {'name': 'Peter', 'age': 25}
+
+print(kwargs_length(**dictionary))
+
+
+Output 1:
+--------
+2
+
+
+--------------------------------------------
+
+
+Input 2:
+-------
+dictionary = {}
+
+print(kwargs_length(**dictionary))
+
+
+Output 2:
+--------
+0
+
+
+-------------------------------------------
