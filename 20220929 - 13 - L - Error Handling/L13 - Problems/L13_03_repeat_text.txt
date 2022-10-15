@@ -1,0 +1,38 @@
+20220929 - Python - Python Advanced - Error Handling
+03 - Repeat Text - judge url: No judge for this problem
+
+
+Write a program that receives a text on the first line and times (to repeat the text) that must be an integer.
+
+If the user passes a non-integer type for the times variable,
+handle the exception and print a message "Variable times must be an integer".
+
+
+_________________ Test Data __________________
+
+
+Input 1:
+-------
+Hello
+Bye
+
+
+Output 1:
+--------
+Variable times must be an integer
+
+
+---------------------------------------------
+
+
+Input 2:
+-------
+Hello
+2
+
+
+Output 2:
+--------
+HelloHello
+
+---------------------------------------------
