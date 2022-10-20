@@ -1,0 +1,10 @@
+.DS_Store
+- - - .DS_Store
+.py
+- - - L16_01_even_lines.py
+- - - L16_02_line_numbers.py
+- - - L16_03_file_manipulator.py
+- - - L16_04_directory_traversal.py
+- - - z_rename_files.py
+.zip
+- - - L16 - File Handling - Homework.zip
