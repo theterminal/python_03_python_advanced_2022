@@ -1,0 +1,29 @@
+.DS_Store
+- - - .DS_Store
+.css
+- - - L16_04_01_test_file.css
+- - - L16_04_02_test_file.css
+.html
+- - - L16_04_01_test_file.html
+- - - L16_04_02_test_file.html
+.py
+- - - L16_01_even_lines.py
+- - - L16_02_line_numbers.py
+- - - L16_03_file_manipulator.py
+- - - L16_04_01_test_file.py
+- - - L16_04_02_test_file.py
+- - - L16_04_directory_traversal.py
+- - - L16_notes_01_os.listdir()_os.walk()_.py
+- - - z_rename_files.py
+.txt
+- - - L16_01_even_lines.txt
+- - - L16_02_line_numbers.txt
+- - - L16_03_file_manipulator.txt
+- - - L16_04_directory_traversal.txt
+- - - output_02.txt
+- - - report.txt
+- - - report_all_files.txt
+- - - text_01.txt
+- - - text_02.txt
+.zip
+- - - L16 - File Handling - Homework.zip
