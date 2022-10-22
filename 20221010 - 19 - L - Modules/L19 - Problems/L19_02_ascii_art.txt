@@ -1,0 +1,49 @@
+20221010 - Python - Python Advanced - Modules
+02 - ASCII Art
+
+
+Write a program that encrypts given words by using the characters: "-|_/\()" to structure the word.
+Use the pyfiglet module.
+You can read more about it here - https://www.geeksforgeeks.org/python-ascii-art-using-pyfiglet-module/
+
+Directions
+    1)  First you need to install the module that we will be using.
+        To install it go to Setting --> Project <your_project_name> --> Project Interpreter --> + --> search for pyfiglet --> install package.
+
+    2)  Import the module
+
+    3)  Implement the logic. We will be using the figlet_format method
+
+
+___________ Test Data _____________
+
+
+Input 1:
+-------
+Hello World!
+
+
+Output 1:
+--------
+ _   _      _ _        __        __         _     _ _
+| | | | ___| | | ___   \ \      / /__  _ __| | __| | |
+| |_| |/ _ \ | |/ _ \   \ \ /\ / / _ \| '__| |/ _` | |
+|  _  |  __/ | | (_) |   \ V  V / (_) | |  | | (_| |_|
+|_| |_|\___|_|_|\___/     \_/\_/ \___/|_|  |_|\__,_(_)
+
+
+-----------------------------------
+
+
+Input 2:
+-------
+Python 3.10
+
+
+Output 2:
+--------
+ ____        _   _                   _____  _  ___
+|  _ \ _   _| |_| |__   ___  _ __   |___ / / |/ _ \
+| |_) | | | | __| '_ \ / _ \| '_ \    |_ \ | | | | |
+|  __/| |_| | |_| | | | (_) | | | |  ___) || | |_| |
+|_|    \__, |\__|_| |_|\___/|_| |_| |____(_)_|\___/
