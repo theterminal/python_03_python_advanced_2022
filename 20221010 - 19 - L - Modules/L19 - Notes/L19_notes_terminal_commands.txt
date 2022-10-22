@@ -1,0 +1,11 @@
+20221010 - Python - Python Advanced - Modules
+
+Terminal commands
+
+pip install [package_name]          - installing the package
+pip uninstall [package_name]        - when uninstalling the dependencies does NOT get uninstalled
+pip freeze                          - shows the installed packages in python
+pip freeze -> requirements.txt      - saves the requirements for the project in a file
+pip install -r requirements.txt     - installs all packages from the file requirements.txt
+
+
