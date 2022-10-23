@@ -1,4 +1,5 @@
 20220912 - Python - Python Advanced - Resources
 
+link to the course: https://softuni.bg/trainings/3848/python-advanced-september-2022
 
 This is an introductory lecture to the course.
