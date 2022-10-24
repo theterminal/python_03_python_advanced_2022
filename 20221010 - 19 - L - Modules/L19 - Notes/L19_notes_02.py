@@ -1,5 +1,5 @@
 # 20221010 - Python - Python Advanced - Modules
-# Example of usage of pandas
+# Example of pandas
 
 import pandas as pd
 
