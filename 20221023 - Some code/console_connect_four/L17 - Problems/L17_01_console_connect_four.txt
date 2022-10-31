@@ -1,0 +1,154 @@
+20221006 - Python - Python Advanced - Workshop 1
+01 - Console Connect Four
+
+
+The Main Logic:
+--------------
+A player wins when he/she connects four slots.
+The winning connected slots must be consecutive
+A connection can be:
+    ->>> Horizontal
+    ->>> Vertical
+    ->>> Diagonal
+
+
+BONUS:
+-----
+    *) Try writing validation logic for:
+            ->>> More than one player
+            ->>> Reset logic
+
+
+    *) Try adding error messages for invalid column
+
+
+Examples:
+--------
+
+[ . . . . . . . ]
+[ . . . . . . . ]
+[ . . . . . . . ]
+[ . . . . . . . ]
+[ . . . . . . . ]
+[ . . . . . . . ]
+
+Player A, please choose a column: 1
+
+[ . . . . . . . ]
+[ . . . . . . . ]
+[ . . . . . . . ]
+[ . . . . . . . ]
+[ . . . . . . . ]
+[ A . . . . . . ]
+
+Player B, please choose a column: 2
+
+[ . . . . . . . ]
+[ . . . . . . . ]
+[ . . . . . . . ]
+[ . . . . . . . ]
+[ . . . . . . . ]
+[ A B . . . . . ]
+
+Player A, please choose a column: 2
+
+[ . . . . . . . ]
+[ . . . . . . . ]
+[ . . . . . . . ]
+[ . . . . . . . ]
+[ . A . . . . . ]
+[ A B . . . . . ]
+
+Player B, please choose a column: 3
+
+[ . . . . . . . ]
+[ . . . . . . . ]
+[ . . . . . . . ]
+[ . . . . . . . ]
+[ . A . . . . . ]
+[ A B B . . . . ]
+
+Player A, please choose a column: 4
+
+[ . . . . . . . ]
+[ . . . . . . . ]
+[ . . . . . . . ]
+[ . . . . . . . ]
+[ . A . . . . . ]
+[ A B B A . . . ]
+
+Player B, please choose a column: 3
+
+[ . . . . . . . ]
+[ . . . . . . . ]
+[ . . . . . . . ]
+[ . . . . . . . ]
+[ . A B . . . . ]
+[ A B B A . . . ]
+
+Player A, please choose a column: 3
+
+[ . . . . . . . ]
+[ . . . . . . . ]
+[ . . . . . . . ]
+[ . . A . . . . ]
+[ . A B . . . . ]
+[ A B B A . . . ]
+
+Player B, please choose a column: 4
+
+[ . . . . . . . ]
+[ . . . . . . . ]
+[ . . . . . . . ]
+[ . . A . . . . ]
+[ . A B B . . . ]
+[ A B B A . . . ]
+
+Player A, please choose a column: 3
+
+[ . . . . . . . ]
+[ . . . . . . . ]
+[ . . A . . . . ]
+[ . . A . . . . ]
+[ . A B B . . . ]
+[ A B B A . . . ]
+
+Player B, please choose a column: 3
+
+[ . . . . . . . ]
+[ . . B . . . . ]
+[ . . A . . . . ]
+[ . . A . . . . ]
+[ . A B B . . . ]
+[ A B B A . . . ]
+
+Player A, please choose a column: 3
+
+[ . . A . . . . ]
+[ . . B . . . . ]
+[ . . A . . . . ]
+[ . . A . . . . ]
+[ . A B B . . . ]
+[ A B B A . . . ]
+
+Player B, please choose a column: 4
+
+[ . . A . . . . ]
+[ . . B . . . . ]
+[ . . A . . . . ]
+[ . . A B . . . ]
+[ . A B B . . . ]
+[ A B B A . . . ]
+
+Player A, please choose a column: 4
+
+[ . . A . . . . ]
+[ . . B . . . . ]
+[ . . A A . . . ]
+[ . . A B . . . ]
+[ . A B B . . . ]
+[ A B B A . . . ]
+
+The winner is Player: A
+
+Process finished with exit code 0
