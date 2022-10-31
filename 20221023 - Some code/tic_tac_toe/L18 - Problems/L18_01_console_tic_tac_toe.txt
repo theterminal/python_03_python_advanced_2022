@@ -1,0 +1,152 @@
+20221007 - Python - Python Advanced - Workshop 2
+01 - Console Tic Tac Toe
+
+
+In this workshop, we will create a simple two-player tic-tac-toe game.
+Here is how the game is going to look in the end:
+
+
+=================================== Result in the console =========================================
+
+
+ _____ _        _____            _____
+|_   _(_)      |_   _|          |_   _|
+  | |  _  ___    | | __ _  ___    | | ___   ___
+  | | | |/ __|   | |/ _` |/ __|   | |/ _ \ / _ \
+  | | | | (__    | | (_| | (__    | | (_) |  __/
+  \_/ |_|\___|   \_/\__,_|\___|   \_/\___/ \___|
+
+
+
+
+Enter a name for player 1: 1
+Enter a name for player 2: 2
+
+1, choose your symbol: "X" or "O" ?x
+This is the numeration of the board:
+
+| 1 | 2 | 3 |
+| 4 | 5 | 6 |
+| 7 | 8 | 9 |
+
+1 starts first!
+
+1, your turn now: 1
+
+|  X  |  _  |  _  |
+|  _  |  _  |  _  |
+|  _  |  _  |  _  |
+
+2, your turn now: 5
+
+|  X  |  _  |  _  |
+|  _  |  O  |  _  |
+|  _  |  _  |  _  |
+
+1, your turn now: 2
+
+|  X  |  X  |  _  |
+|  _  |  O  |  _  |
+|  _  |  _  |  _  |
+
+2, your turn now: 4
+
+|  X  |  X  |  _  |
+|  O  |  O  |  _  |
+|  _  |  _  |  _  |
+
+1, your turn now: 3
+
+ __                        _
+/  |                      | |
+`| |  __      _____  _ __ | |
+ | |  \ \ /\ / / _ \| '_ \| |
+_| |_  \ V  V / (_) | | | |_|
+\___/   \_/\_/ \___/|_| |_(_)
+
+
+
+|  X  |  X  |  X  |
+|  O  |  O  |  _  |
+|  _  |  _  |  _  |
+
+Process finished with exit code 0
+
+
+==========================================================================
+
+
+The Main Logic
+
+
+Global Variables
+----------------
+
+The global variables will be player_one,  player_two, board (the state of the game) and
+loop (boolean to check if the game should continue or not)
+
+
+Implementation
+--------------
+Let us now create our main logic of the game
+(see the given .docx file for some illustrations and directions of logic)
+
+    - We create our global variables player_one, player_two (None to start with), board (empty to start with), and loop (game loop)
+    - We also create variables current and other (to switch turns of the players)
+    - We call a setup() function, which we will implement later (it should take the info of the players and draw the initial state of the board)
+    - We create a while loop to keep playing until a player wins
+    - In there, we call a function called play() which will take the choice of the current player and apply his choice on the board
+    - Finally, we switch the players, so in the next iteration, the other player should choose
+
+
+Creating the Setup() Function
+-----------------------------
+(see the given .docx file for some illustrations and directions of logic)
+
+    - We take the names of the two players
+    - Then we ask player one for his sign and set the sign of the second player
+    - We save the info in the global variables player_one and player_two as a list of their names and signs
+    - We display some info of the game rules and start with player one
+
+
+Creating the Play() Function
+----------------------------
+Now, let us implement the play() function,
+which will ask the current player to choose his following action and apply his sign on the board
+(see the given .docx file for some illustrations and directions of logic)
+
+    - Here we ask the player to choose a free space to apply his sign
+    - We create the variables row and col, which calculate the row and col of the selected label (don't forget to import ceil from the math library)
+    - Then we apply the sign of the current player on the board
+    - We call two functions which we will implement next:
+        * - draw_board(board) - loops through the board and draws its current state
+        * - check_if_won(current, board) - checks if the current player has won after choosing his action
+
+
+Creating the Draw_board() Function
+----------------------------------
+(see the given .docx file for some illustrations and directions of logic)
+
+    - Here we loop through each row in the board and print its state
+
+
+Creating the Check_if_won() Function
+------------------------------------
+(see the given .docx file for some illustrations and directions of logic)
+
+    - In this function, we firstly use the global loop variable, because we will use it later
+
+    - Then we create a boolean variable for each win condition
+
+    - We then check if any of these conditions is True and if there are,
+      we print that the current player has won and then stop the loop (we set the loop variable to False)
+
+
+BONUS
+-----
+    - Try writing validation logic for:
+        * - The signs can only be "X" and "O"
+        * - The users can only choose from the numbers 1 to 9
+        * - The users can only choose a free space
+
+    - Try adding error messages for those validations
