@@ -1,4 +1,4 @@
-# 20221022 - Python Advanced - Exam
+# 20221022_Python_Advanced_Exam
 # 02 - Rally Racing - judge: https://judge.softuni.org/Contests/Compete/Index/3596#1
 
 
