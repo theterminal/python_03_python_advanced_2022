@@ -1,6 +1,7 @@
 # 20221003 - Python - Python Advanced - File Handling
 # 03 - File Writer
 
+
 # _______________ version 2 _________________
 
 
@@ -14,7 +15,6 @@ with open(file_path, 'w') as file:
 
 
 # _______________ version 1 _________________
-
 
 from os import linesep
 

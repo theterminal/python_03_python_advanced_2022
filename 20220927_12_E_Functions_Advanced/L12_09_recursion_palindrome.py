@@ -1,5 +1,5 @@
 # 20220927 - Python - Python Advanced - Functions Advanced
-# 09 - Recursion Palindrome - judge url: https://judge.softuni.org/Contests/Compete/Index/1839#8
+# 09 - Recursion Palindrome - judge: https://judge.softuni.org/Contests/Compete/Index/1839#8
 
 
 # _______________ version 1 _________________ judge 100%

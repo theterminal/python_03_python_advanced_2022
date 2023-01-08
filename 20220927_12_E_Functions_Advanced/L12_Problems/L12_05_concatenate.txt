@@ -1,5 +1,5 @@
 20220927 - Python - Python Advanced - Functions Advanced
-05 - Concatenate - judge url: https://judge.softuni.org/Contests/Compete/Index/1839#4
+05 - Concatenate - judge: https://judge.softuni.org/Contests/Compete/Index/1839#4
 
 
 Write a concatenate() function that receives some strings as arguments and some named arguments

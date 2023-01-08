@@ -1,5 +1,5 @@
 # 20220927 - Python - Python Advanced - Functions Advanced
-# 03 - Even or Odd - judge url: https://judge.softuni.org/Contests/Compete/Index/1839#2
+# 03 - Even or Odd - judge: https://judge.softuni.org/Contests/Compete/Index/1839#2
 
 
 # _______________ version 1 _________________ judge 100%

@@ -1,5 +1,5 @@
 20220926 - Python - Python Advanced - Functions Advanced
-03 - Cheese Showcase - judge url: https://judge.softuni.org/Contests/Practice/Index/1838#2
+03 - Cheese Showcase - judge: https://judge.softuni.org/Contests/Practice/Index/1838#2
 
 
 White a function called sorting_cheeses that receives keywords arguments:

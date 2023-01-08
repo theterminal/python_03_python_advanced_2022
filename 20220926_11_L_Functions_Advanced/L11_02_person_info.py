@@ -1,5 +1,5 @@
 # 20220926 - Python - Python Advanced - Functions Advanced
-# 02 - Person Info - judge url: https://judge.softuni.org/Contests/Practice/Index/1838#1
+# 02 - Person Info - judge: https://judge.softuni.org/Contests/Practice/Index/1838#1
 
 
 # _______________ version 1 _________________ judge 100%

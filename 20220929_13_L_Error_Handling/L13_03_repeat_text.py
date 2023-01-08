@@ -1,5 +1,5 @@
 # 20220929 - Python - Python Advanced - Error Handling
-# 03 - Repeat Text - judge url: No judge for this problem
+# 03 - Repeat Text - judge: No judge for this problem
 
 
 # _______________ version 1 _________________ judge 100%

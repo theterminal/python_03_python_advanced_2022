@@ -1,6 +1,7 @@
 # 20221003 - Python - Python Advanced - File Handling
 # 02 - File reader
 
+
 # _______________ version 3 _________________
 
 

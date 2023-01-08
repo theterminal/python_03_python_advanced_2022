@@ -8,7 +8,7 @@ from os import path, remove, rename
 print('\n--------------- path joint with the correct OS separator ---------------\n')
 
 
-print(path.join('..', 'L15 - Problems', 'L15_01_file_opener.txt'))
+print(path.join('..', 'L15_Problems', 'L15_01_file_opener.txt'))
 
 # In case you are not sure what is the separator for the current operating system. The answer will return tha path
 
@@ -16,21 +16,21 @@ print(path.join('..', 'L15 - Problems', 'L15_01_file_opener.txt'))
 print('\n--------------- path.split() -------------------------------------------\n')
 
 
-file_path = '../L15 - Problems/L15_01_file_opener.txt'
+file_path = '../L15_Problems/L15_01_file_opener.txt'
 print(path.split(file_path))
 
 
 print('\n--------------- .isdir() -----------------------------------------------\n')
 
 
-file_path = '../L15 - Problems/L15_01_file_opener.txt'
+file_path = '../L15_Problems/L15_01_file_opener.txt'
 print(path.isdir(file_path))
 
 
 print('\n--------------- .exists() -----------------------------------------------\n')
 
 
-file_path = '../L15 - Problems/L15_01_file_opener.txt'
+file_path = '../L15_Problems/L15_01_file_opener.txt'
 print(path.exists(file_path))
 
 

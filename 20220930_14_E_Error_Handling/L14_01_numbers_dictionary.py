@@ -1,5 +1,5 @@
 # 20220930 - Python - Python Advanced - Error Handling
-# 01 - Numbers Dictionary - judge url: No judge for this problem
+# 01 - Numbers Dictionary - judge: No judge for this problem
 
 
 # _______________ version 1 _________________

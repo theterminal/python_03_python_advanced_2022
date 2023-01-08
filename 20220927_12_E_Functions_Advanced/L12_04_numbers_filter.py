@@ -1,5 +1,5 @@
 # 20220927 - Python - Python Advanced - Functions Advanced
-# 04 - Numbers Folter - judge url: https://judge.softuni.org/Contests/Compete/Index/1839#3
+# 04 - Numbers Folter - judge: https://judge.softuni.org/Contests/Compete/Index/1839#3
 
 
 # _______________ version 1 _________________ judge 100%

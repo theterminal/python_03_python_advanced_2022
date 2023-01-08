@@ -1,5 +1,5 @@
 20220926 - Python - Python Advanced - Functions Advanced
-05 - Operate - judge url: https://judge.softuni.org/Contests/Practice/Index/1838#4
+05 - Operate - judge: https://judge.softuni.org/Contests/Practice/Index/1838#4
 
 
 Write a function called operate that receives an operator ("+", "-", "*" or "/") as first argument and

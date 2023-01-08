@@ -1,5 +1,5 @@
 20220927 - Python - Python Advanced - Functions Advanced
-06 - Function Executor - judge url: https://judge.softuni.org/Contests/Compete/Index/1839#5
+06 - Function Executor - judge: https://judge.softuni.org/Contests/Compete/Index/1839#5
 
 
 Create a function called func_executor() that can receive a different number of tuples,

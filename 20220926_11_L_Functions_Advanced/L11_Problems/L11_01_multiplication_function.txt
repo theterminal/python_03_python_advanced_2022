@@ -1,5 +1,5 @@
 20220926 - Python - Python Advanced - Functions Advanced
-01 - Multiplication Function - judge url: https://judge.softuni.org/Contests/Practice/Index/1838#0
+01 - Multiplication Function - judge: https://judge.softuni.org/Contests/Practice/Index/1838#0
 
 
 Write a function called multiply that can receive any quantity of numbers (integers) as different parameters and

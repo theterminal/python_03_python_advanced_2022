@@ -1,5 +1,5 @@
 # 20220929 - Python - Python Advanced - Error Handling
-# 01 - So Many Exceptions - judge url: No judge for this problem
+# 01 - So Many Exceptions - judge: No judge for this problem
 
 
 # _______________ version 1 _________________

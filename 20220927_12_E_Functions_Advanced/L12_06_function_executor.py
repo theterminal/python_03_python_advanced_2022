@@ -1,5 +1,5 @@
 # 20220927 - Python - Python Advanced - Functions Advanced
-# 06 - Function Executor - judge url: https://judge.softuni.org/Contests/Compete/Index/1839#5
+# 06 - Function Executor - judge: https://judge.softuni.org/Contests/Compete/Index/1839#5
 
 
 # _______________ version 1 _________________ judge 100%

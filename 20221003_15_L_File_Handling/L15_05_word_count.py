@@ -2,8 +2,8 @@
 # 20221003 - Python - Python Advanced - File Handling
 # 05 - Word Count
 
-# _______________ version 1 _________________
 
+# _______________ version 1 _________________
 
 import re
 
@@ -30,7 +30,6 @@ with open('./L15_05_word_count/output.txt', 'w') as result_file:
 
 
 # ---------------------- version 2 -------------------------
-
 
 import re
 

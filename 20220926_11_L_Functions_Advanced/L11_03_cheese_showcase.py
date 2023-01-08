@@ -1,5 +1,5 @@
 # 20220926 - Python - Python Advanced - Functions Advanced
-# 03 - Cheese Showcase - judge url: https://judge.softuni.org/Contests/Practice/Index/1838#2
+# 03 - Cheese Showcase - judge: https://judge.softuni.org/Contests/Practice/Index/1838#2
 
 
 # _______________ version 1 _________________ judge 100%

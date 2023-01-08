@@ -1,5 +1,5 @@
 # 20220926 - Python - Python Advanced - Functions Advanced
-# 04 - Rectangle - judge url: https://judge.softuni.org/Contests/Practice/Index/1838#3
+# 04 - Rectangle - judge: https://judge.softuni.org/Contests/Practice/Index/1838#3
 
 
 # _______________ version 1 _________________ judge 100%

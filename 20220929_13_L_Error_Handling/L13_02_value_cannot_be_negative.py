@@ -1,5 +1,5 @@
 # 20220929 - Python - Python Advanced - Error Handling
-# 02 - Value Cannot Be Negative - judge url: No judge for this problem
+# 02 - Value Cannot Be Negative - judge: No judge for this problem
 
 
 # _______________ version 1 _________________

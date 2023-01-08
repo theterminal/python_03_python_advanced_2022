@@ -1,5 +1,5 @@
 # 20220930 - Python - Python Advanced - Error Handling
-# 02 - Email Validator - judge url: No judge for this problem
+# 02 - Email Validator - judge: No judge for this problem
 
 
 # _______________ version 1 _________________

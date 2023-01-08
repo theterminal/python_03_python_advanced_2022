@@ -1,5 +1,5 @@
 # 20220927 - Python - Python Advanced - Functions Advanced
-# 01 - Negative vs Positive - judge url: https://judge.softuni.org/Contests/Compete/Index/1839#0
+# 01 - Negative vs Positive - judge: https://judge.softuni.org/Contests/Compete/Index/1839#0
 
 
 # _______________ version 1 _________________ judge 100%

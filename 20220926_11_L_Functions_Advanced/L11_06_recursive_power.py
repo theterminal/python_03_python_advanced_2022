@@ -1,5 +1,5 @@
 # 20220926 - Python - Python Advanced - Functions Advanced
-# 06 - Recursive Power - judge url: https://judge.softuni.org/Contests/Practice/Index/1838#5
+# 06 - Recursive Power - judge: https://judge.softuni.org/Contests/Practice/Index/1838#5
 
 
 # _______________ version 1 _________________ judge 100%

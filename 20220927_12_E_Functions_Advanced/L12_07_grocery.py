@@ -1,5 +1,5 @@
 # 20220927 - Python - Python Advanced - Functions Advanced
-# 07 - Grocery - judge url: https://judge.softuni.org/Contests/Compete/Index/1839#6
+# 07 - Grocery - judge: https://judge.softuni.org/Contests/Compete/Index/1839#6
 
 
 # _______________ version 1 _________________ judge 100%

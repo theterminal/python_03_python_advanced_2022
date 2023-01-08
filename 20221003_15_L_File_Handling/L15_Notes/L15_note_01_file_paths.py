@@ -11,7 +11,7 @@ print('\n--------- Relative and  absolute paths ----------\n')
 
 
 # from current location, go to a file (L15_01.txt) in the same directory
-file_path = './L15 - Problems/L15_01.txt'
+file_path = './L15_Problems/L15_01.txt'
 
 # open the file with the specified path
 file = open(file_path)

@@ -1,5 +1,5 @@
 20220929 - Python - Python Advanced - Error Handling
-03 - Repeat Text - judge url: No judge for this problem
+03 - Repeat Text - judge: No judge for this problem
 
 
 Write a program that receives a text on the first line and times (to repeat the text) that must be an integer.

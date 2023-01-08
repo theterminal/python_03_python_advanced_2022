@@ -1,6 +1,7 @@
 # 20221003 - Python - Python Advanced - File Handling
 # 04 - File Delete
 
+
 # _______________ version 1 _________________
 
 
