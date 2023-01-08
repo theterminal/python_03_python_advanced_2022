@@ -4,7 +4,6 @@
 
 # ----------------- version 1 -------------------
 
-
 from utils_L19_05.line_parser import parse_line
 from utils_L19_05.fibonacci import create, locate
 

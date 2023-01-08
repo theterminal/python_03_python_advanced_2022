@@ -4,7 +4,6 @@
 
 # ----------------- version 1 -------------------
 
-
 from pyfiglet import figlet_format
 
 

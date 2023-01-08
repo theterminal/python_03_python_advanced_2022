@@ -25,6 +25,7 @@ Input:
 ------
 You will be receiving commands until the "Stop" command. All inputs will be valid.
 
+
 Output:
 ------
 Print the output of every command in the format described above.

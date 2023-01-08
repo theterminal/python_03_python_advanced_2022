@@ -4,9 +4,9 @@
 
 # ----------------- version 1 -------------------
 
-
 from utils_L19_03.print_figures import print_triangle, print_square, print_rectangle
 from utils_L19_03.print_helper import print_line
+
 
 print_triangle(6)
 print()

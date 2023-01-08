@@ -4,6 +4,7 @@
 
 Write a program that prints the calculated logarithm of any given number
 
+
 Input:
 -----
     - On the first line, you will receive the number (an integer)

@@ -4,9 +4,9 @@
 
 # ----------------- version 1 -------------------
 
-
 from utils_L19_04.calculations import calculate
 from termcolor import colored
+
 
 data = input('\nEnter a single string in the following format: \n\n'
              + colored('{number1} {sign} {number2}', 'blue', attrs=['bold']) + '\n\n'
