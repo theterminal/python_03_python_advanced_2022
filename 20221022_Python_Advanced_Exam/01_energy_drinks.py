@@ -1,7 +1,6 @@
 # 20221022_Python_Advanced_Exam
 # 01 - Energy Drinks - judge: https://judge.softuni.org/Contests/Compete/Index/3596#0
 
-
 from collections import deque
 
 

@@ -43,6 +43,7 @@ def shopping_cart(*args):
 
 print('\n------------------ test 1 ------------------\n')
 
+
 print(shopping_cart(
     ('Pizza', 'ham'),
     ('Soup', 'carrots'),
@@ -54,7 +55,9 @@ print(shopping_cart(
     'Stop',
 ))
 
+
 print('\n------------------ test 2 ------------------\n')
+
 
 print(shopping_cart(
     ('Pizza', 'ham'),
@@ -63,7 +66,9 @@ print(shopping_cart(
     'Stop',
 ))
 
+
 print('\n------------------ test 3 ------------------\n')
+
 
 print(shopping_cart(
     'Stop',
@@ -71,7 +76,9 @@ print(shopping_cart(
     ('Pizza', 'mushrooms'),
 ))
 
+
 print('\n------------------ test 4 ------------------\n')
+
 
 print(shopping_cart(
     ('Pizza', 'ham'),

@@ -1,5 +1,5 @@
 # 20220920 - Python - Python Advanced - Multidimensional Lists
-# 07 - Square With Maximum Sum - judge url: https://judge.softuni.org/Contests/Practice/Index/1834#6
+# 07 - Square With Maximum Sum - judge: https://judge.softuni.org/Contests/Practice/Index/1834#6
 
 
 # _______________ version 1 _________________ judge 100%

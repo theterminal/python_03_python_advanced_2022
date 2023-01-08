@@ -1,6 +1,7 @@
 20221022 - Python Advanced - Exam
 03 - Hourly Forecast - judge: https://judge.softuni.org/Contests/Compete/Index/3596#2
 
+
 Patricia wants to go on vacation for the weekend and wants to know where the weather will be the best, so she can see the most sights.
 Patricia is busy at work and doesn't have time to think about the perfect place for her vacation, so she wants your help.
 

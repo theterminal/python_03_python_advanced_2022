@@ -4,7 +4,6 @@
 
 # _______________ version 2 _________________ judge 100%
 
-
 from collections import deque
 
 

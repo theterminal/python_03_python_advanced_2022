@@ -4,7 +4,6 @@
 
 # _______________ version 2 _________________
 
-
 from pyfiglet import Figlet             # big, slant, doom, standard, graffiti, cyberlarge
 from colorama import Fore
 

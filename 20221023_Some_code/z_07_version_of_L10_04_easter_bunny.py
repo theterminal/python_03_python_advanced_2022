@@ -1,5 +1,5 @@
 # 20220923 - Python - Python Advanced - Multidimensional Lists
-# 04 - Easter Bunny - judge url: https://judge.softuni.org/Contests/Compete/Index/3194#3
+# 04 - Easter Bunny - judge: https://judge.softuni.org/Contests/Compete/Index/3194#3
 
 # Different KK version of the problem! It changes the 'B' on all positions (skips the positions with 'X')
 # and calculates the max sum of a line from the for possible directions (right, down, left, up).

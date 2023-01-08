@@ -85,6 +85,7 @@ Comment 1:
 
 Three seats are matched - print the needed information and end the program.
 
+
 -------------------------------------------------
 
 

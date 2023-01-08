@@ -1,9 +1,10 @@
 # 20220930 - Python - Python Advanced - Error Handling
 # 03 - Guess game
 
-
 import random
 from colorama import Fore
+
+
 # level = int(input(Fore.LIGHTWHITE_EX + 'Select level: '))
 # this line will add color from colorama
 

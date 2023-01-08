@@ -44,7 +44,6 @@ print(f'Rotations count: {rotations}')
 
 # _______________ version 1 _________________ judge 100%
 
-
 from collections import deque
 
 

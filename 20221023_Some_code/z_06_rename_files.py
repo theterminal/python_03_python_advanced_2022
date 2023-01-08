@@ -4,7 +4,6 @@
 
 # Program for renaming of files in a directory by replacing symbol/s with other symbol/s or no string.
 
-
 import os
 import re
 

@@ -4,7 +4,6 @@
 
 # _______________ version 1 _______________
 
-
 from collections import deque
 from colorama import Fore
 
@@ -92,7 +91,6 @@ while True:
 
 
 # _______________ version 2 ____________ w/functions and recursion (just for illustration) _______
-
 
 from collections import deque
 from colorama import Fore

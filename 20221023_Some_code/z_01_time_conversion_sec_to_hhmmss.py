@@ -1,6 +1,7 @@
 # 20220919 - Python Advanced - Python
 # Conversion from number seconds to time in the format (hh:mm:ss) with trimming of the amount above 24 hrs
 
+
 def convert_seconds_to_hh_mm_ss(seconds):
     seconds %= 86400
     hours = seconds // 3600
@@ -18,6 +19,7 @@ data_in = float(input('\nEnter a integer (seconds) to convert to "hh:mm:ss" 24 h
 data_to_convert_to_hh_mm_ss = int(data_in)
 
 convert_seconds_to_hh_mm_ss(data_to_convert_to_hh_mm_ss)
+
 
 # - input value of seconds is given in the function
 
