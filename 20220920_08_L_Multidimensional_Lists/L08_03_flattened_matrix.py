@@ -1,5 +1,5 @@
 # 20220920 - Python - Python Advanced - Multidimensional Lists
-# 03 - Flattened Matrix - judge url: https://judge.softuni.org/Contests/Practice/Index/1834#2
+# 03 - Flattened Matrix - judge: https://judge.softuni.org/Contests/Practice/Index/1834#2
 
 
 # _______________ version 3 _________________ judge 100%

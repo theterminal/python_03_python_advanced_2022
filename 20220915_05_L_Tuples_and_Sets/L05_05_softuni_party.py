@@ -1,5 +1,5 @@
 # 20220915 - Python - Python Advanced - Tuples and Sets
-# 05 - SoftUni Party - judge url: https://judge.softuni.org/Contests/Practice/Index/1832#4
+# 05 - SoftUni Party - judge: https://judge.softuni.org/Contests/Practice/Index/1832#4
 
 
 # _______________ version 1 _________________ judge 100%

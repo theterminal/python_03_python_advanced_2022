@@ -1,5 +1,5 @@
 # 20220920 - Python - Python Advanced - Multidimensional Lists
-# 06 - Symbol in Matrix - judge url: https://judge.softuni.org/Contests/Practice/Index/1834#5
+# 06 - Symbol in Matrix - judge: https://judge.softuni.org/Contests/Practice/Index/1834#5
 
 
 # _______________ version 1 _________________ judge 100%

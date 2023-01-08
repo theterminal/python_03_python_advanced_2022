@@ -1,5 +1,5 @@
 # 20220920 - Python - Python Advanced - Multidimensional Lists
-# 02 - Even Matrix - judge url: https://judge.softuni.org/Contests/Practice/Index/1834#1
+# 02 - Even Matrix - judge: https://judge.softuni.org/Contests/Practice/Index/1834#1
 
 
 Write a program that receives a matrix of numbers and prints a new one only with the numbers that are even.

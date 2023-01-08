@@ -1,5 +1,5 @@
 # 20220916 - Python - Python Advanced - Tuples and Sets
-# 04 - Count Symbols - judge url: https://judge.softuni.org/Contests/Compete/Index/1833#3
+# 04 - Count Symbols - judge: https://judge.softuni.org/Contests/Compete/Index/1833#3
 
 
 # _______________ version 1 _________________ judge 100%

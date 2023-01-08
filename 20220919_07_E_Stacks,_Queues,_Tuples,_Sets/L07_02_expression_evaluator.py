@@ -1,5 +1,5 @@
 # 20220919 - Python - Python Advanced - Stacks, Queues, Tuples, Sets
-# 02 - Expression Evaluator - judge url: https://judge.softuni.org/Contests/Compete/Index/3159#1
+# 02 - Expression Evaluator - judge: https://judge.softuni.org/Contests/Compete/Index/3159#1
 
 
 # _______________ version 3 _________________ judge 100%

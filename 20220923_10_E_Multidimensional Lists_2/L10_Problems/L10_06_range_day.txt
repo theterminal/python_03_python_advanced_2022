@@ -1,5 +1,5 @@
 20220923 - Python - Python Advanced - Multidimensional Lists
-06 - Range Day - judge url: https://judge.softuni.org/Contests/Compete/Index/3194#5
+06 - Range Day - judge: https://judge.softuni.org/Contests/Compete/Index/3194#5
 
 
 You are participating in a Firearm course. It is a training day at the shooting range.

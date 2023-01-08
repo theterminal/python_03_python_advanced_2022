@@ -1,5 +1,5 @@
 20220915 - Python - Python Advanced - Tuples and Sets
-04 - Parking Lot - judge url: https://judge.softuni.org/Contests/Practice/Index/1832#3
+04 - Parking Lot - judge: https://judge.softuni.org/Contests/Practice/Index/1832#3
 
 
 Write a program that:

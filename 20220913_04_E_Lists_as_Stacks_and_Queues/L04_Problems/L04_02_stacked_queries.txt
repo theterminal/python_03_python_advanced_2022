@@ -1,5 +1,5 @@
 # 20220913 - Python - Python Advanced - Lists as Stacks and Queues
-# 02 - Stacked Queries - judge url: https://judge.softuni.org/Contests/Compete/Index/1831#1
+# 02 - Stacked Queries - judge: https://judge.softuni.org/Contests/Compete/Index/1831#1
 
 
 You have an empty stack.

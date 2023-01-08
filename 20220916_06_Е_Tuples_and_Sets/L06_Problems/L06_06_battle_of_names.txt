@@ -1,5 +1,5 @@
 20220916 - Python - Python Advanced - Tuples and Sets
-06 - Battle of Names - judge url: https://judge.softuni.org/Contests/Compete/Index/1833#5
+06 - Battle of Names - judge: https://judge.softuni.org/Contests/Compete/Index/1833#5
 
 
 You will receive a number N.

@@ -1,5 +1,5 @@
 # 20220915 - Python - Python Advanced - Tuples and Sets
-# 01 - Count Same Values - judge url: https://judge.softuni.org/Contests/Practice/Index/1832#0
+# 01 - Count Same Values - judge: https://judge.softuni.org/Contests/Practice/Index/1832#0
 
 
 # _______________ version 1 _________________ judge 100%

@@ -1,5 +1,5 @@
 # 20220920 - Python - Python Advanced - Multidimensional Lists
-# 04 - Sum Matrix Columns - judge url: https://judge.softuni.org/Contests/Practice/Index/1834#3
+# 04 - Sum Matrix Columns - judge: https://judge.softuni.org/Contests/Practice/Index/1834#3
 
 
 # _______________ version 1 _________________ judge 100%

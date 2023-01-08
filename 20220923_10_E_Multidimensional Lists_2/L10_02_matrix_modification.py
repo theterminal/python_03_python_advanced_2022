@@ -1,5 +1,5 @@
 # 20220923 - Python - Python Advanced - Multidimensional Lists
-# 02 - Matrix Modification - judge url: https://judge.softuni.org/Contests/Compete/Index/3194#1
+# 02 - Matrix Modification - judge: https://judge.softuni.org/Contests/Compete/Index/3194#1
 
 
 # _______________ version 1 _________________ judge 100%

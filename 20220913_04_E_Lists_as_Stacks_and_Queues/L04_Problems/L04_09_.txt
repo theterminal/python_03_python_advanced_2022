@@ -1,0 +1,36 @@
+09. *Key Revolver
+
+from collections import deque
+
+
+price_per_bullet = int(input())
+initial_barrel_size = int(input())
+barrel_size = initial_barrel_size
+
+bullets = deque([int(x) for x in input().split()])  # LIFO -> starts from index[-1]
+locks = deque([int(x) for x in input().split()])  # FIFO -> starts from index[0]
+value = int(input())
+total_bullets = 0
+while True:
+    if not bullets or not locks:
+        break
+
+    last_bullets = bullets.pop()
+    first_lock = locks[0]
+    total_bullets += 1
+
+    if last_bullets <= first_lock:
+        print('Bang!')
+        locks.popleft()
+    else:
+        print('Ping!')
+
+    barrel_size -= 1
+    if barrel_size == 0 and bullets:
+        print('Reloading!')
+        barrel_size = initial_barrel_size
+
+if not locks:
+    print(f"{len(bullets)} bullets left. Earned ${value - (total_bullets * price_per_bullet)}")
+else:
+    print(f"Couldn't get through. Locks left: {len(locks)}")

@@ -1,5 +1,5 @@
 20220923 - Python - Python Advanced - Multidimensional Lists
-02 - Matrix Modification - judge url: https://judge.softuni.org/Contests/Compete/Index/3194#1
+02 - Matrix Modification - judge: https://judge.softuni.org/Contests/Compete/Index/3194#1
 
 
 Write a program that reads a matrix from the console and changes its values.
@@ -19,10 +19,20 @@ ______________ Test Data _______________
 
 Input 1:
 -------
+3
+1 2 3
+4 5 6
+7 8 9
+Add 0 0 5
+Subtract 1 1 2
+END
 
 
 Output 1:
 --------
+6 2 3
+4 3 6
+7 8 9
 
 
 ----------------------------------------
@@ -30,10 +40,26 @@ Output 1:
 
 Input 2:
 -------
+4
+1 2 3 4
+5 6 7 8
+8 7 6 5
+4 3 2 1
+Add 4 4 100
+Add 3 3 100
+Subtract -1 -1 42
+Subtract 0 0 42
+END
 
 
 Output 2:
 --------
+Invalid coordinates
+Invalid coordinates
+-41 2 3 4
+5 6 7 8
+8 7 6 5
+4 3 2 101
 
 
 ----------------------------------------

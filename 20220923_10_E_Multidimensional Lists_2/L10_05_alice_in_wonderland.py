@@ -1,5 +1,5 @@
 # 20220923 - Python - Python Advanced - Multidimensional Lists
-# 05 - Alice in Wonderland - judge url: https://judge.softuni.org/Contests/Compete/Index/3194#4
+# 05 - Alice in Wonderland - judge: https://judge.softuni.org/Contests/Compete/Index/3194#4
 
 
 # _______________ version 1 _________________ judge 100%

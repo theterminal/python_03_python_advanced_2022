@@ -1,5 +1,5 @@
 # 20220923 - Python - Python Advanced - Multidimensional Lists
-# 07 - Present Delivery - judge url: https://judge.softuni.org/Contests/Compete/Index/3194#6
+# 07 - Present Delivery - judge: https://judge.softuni.org/Contests/Compete/Index/3194#6
 
 
 # _______________ version 1 _________________ judge 100%

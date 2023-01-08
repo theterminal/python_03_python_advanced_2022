@@ -1,5 +1,5 @@
 # 20220920 - Python - Python Advanced - Multidimensional Lists
-# 05 - Primary Diagonal - judge url: https://judge.softuni.org/Contests/Practice/Index/1834#4
+# 05 - Primary Diagonal - judge: https://judge.softuni.org/Contests/Practice/Index/1834#4
 
 
 # _______________ version 1 _________________ judge 100%

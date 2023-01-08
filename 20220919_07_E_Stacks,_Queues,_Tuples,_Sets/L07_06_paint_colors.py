@@ -1,5 +1,5 @@
 # 20220919 - Python - Python Advanced - Stacks, Queues, Tuples, Sets
-# 06 - Paint Colors - judge url: https://judge.softuni.org/Contests/Compete/Index/3159#5
+# 06 - Paint Colors - judge: https://judge.softuni.org/Contests/Compete/Index/3159#5
 
 
 # _______________ version 2 _________________ judge 100%

@@ -1,5 +1,5 @@
 # 20220916 - Python - Python Advanced - Tuples and Sets
-# 02 - Sets of Elements - judge url: https://judge.softuni.org/Contests/Compete/Index/1833#1
+# 02 - Sets of Elements - judge: https://judge.softuni.org/Contests/Compete/Index/1833#1
 
 
 # _______________ version 1 _________________ judge 100%

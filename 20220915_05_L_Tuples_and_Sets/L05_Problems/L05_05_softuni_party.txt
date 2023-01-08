@@ -1,5 +1,5 @@
 20220915 - Python - Python Advanced - Tuples and Sets
-05 - SoftUni Party - judge url: https://judge.softuni.org/Contests/Practice/Index/1832#4
+05 - SoftUni Party - judge: https://judge.softuni.org/Contests/Practice/Index/1832#4
 
 There is a party at SoftUni. Many guests are invited, and there are two types of them: Regular and VIP.
 When a guest comes, check if they exist on any of the two reservation lists.

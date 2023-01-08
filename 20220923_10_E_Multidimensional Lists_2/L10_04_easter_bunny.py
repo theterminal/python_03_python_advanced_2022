@@ -1,5 +1,5 @@
 # 20220923 - Python - Python Advanced - Multidimensional Lists
-# 04 - Easter Bunny - judge url: https://judge.softuni.org/Contests/Compete/Index/3194#3
+# 04 - Easter Bunny - judge: https://judge.softuni.org/Contests/Compete/Index/3194#3
 
 
 # _______________ version 1 _________________ judge 100%

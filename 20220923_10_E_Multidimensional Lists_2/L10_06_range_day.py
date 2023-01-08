@@ -1,5 +1,5 @@
 # 20220923 - Python - Python Advanced - Multidimensional Lists
-# 06 - Range Day - judge url: https://judge.softuni.org/Contests/Compete/Index/3194#5
+# 06 - Range Day - judge: https://judge.softuni.org/Contests/Compete/Index/3194#5
 
 
 # _______________ version 1 _________________ judge 100%

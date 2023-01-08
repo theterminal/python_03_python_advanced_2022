@@ -1,5 +1,5 @@
 # 20220915 - Python - Python Advanced - Tuples and Sets
-# 03 - Unique Names - judge url: https://judge.softuni.org/Contests/Practice/Index/1832#2
+# 03 - Unique Names - judge: https://judge.softuni.org/Contests/Practice/Index/1832#2
 
 
 # _______________ version 1 _________________ judge 100%

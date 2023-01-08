@@ -1,5 +1,5 @@
 20220916 - Python - Python Advanced - Tuples and Sets
-04 - Count Symbols - judge url: https://judge.softuni.org/Contests/Compete/Index/1833#3
+04 - Count Symbols - judge: https://judge.softuni.org/Contests/Compete/Index/1833#3
 
 
 Write a program that reads a text from the console and counts the occurrences of each character in it.

@@ -1,5 +1,5 @@
 # 20220916 - Python - Python Advanced - Tuples and Sets
-# 03 - Periodic Table - judge url: https://judge.softuni.org/Contests/Compete/Index/1833#2
+# 03 - Periodic Table - judge: https://judge.softuni.org/Contests/Compete/Index/1833#2
 
 
 # _______________ version 1 _________________ judge 100%

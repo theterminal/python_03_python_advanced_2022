@@ -1,5 +1,5 @@
 # 20220921 - Python - Python Advanced - Multidimensional Lists
-# 05 - Matrix of Palindromes - judge url: https://judge.softuni.org/Contests/Compete/Index/1835#4
+# 05 - Matrix of Palindromes - judge: https://judge.softuni.org/Contests/Compete/Index/1835#4
 
 
 # _______________ version 1 _________________ judge 100%

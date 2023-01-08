@@ -1,5 +1,5 @@
 # 20220919 - Python - Python Advanced - Stacks, Queues, Tuples, Sets
-# 05 - Santa's Present Factory - judge url: https://judge.softuni.org/Contests/Compete/Index/3159#4
+# 05 - Santa's Present Factory - judge: https://judge.softuni.org/Contests/Compete/Index/3159#4
 
 
 # _______________ version 3 _________________ judge 100%

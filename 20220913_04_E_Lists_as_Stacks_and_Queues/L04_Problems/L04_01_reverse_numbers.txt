@@ -1,5 +1,5 @@
 20220913 - Python - Python Advanced - Lists as Stacks and Queues
-01 - Reverse Strings - judge url: https://judge.softuni.org/Contests/Compete/Index/1831#0
+01 - Reverse Strings - judge: https://judge.softuni.org/Contests/Compete/Index/1831#0
 
 
 Write a program that reads a string with N integers from the console,

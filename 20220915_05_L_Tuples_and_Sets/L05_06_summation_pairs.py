@@ -1,5 +1,5 @@
 # 20220915 - Python - Python Advanced - Tuples and Sets
-# 06 - Summation Pairs - judge url: NOT in judge system
+# 06 - Summation Pairs - judge: NOT in judge system
 
 
 numbers = list(map(int, input().split()))

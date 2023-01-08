@@ -1,5 +1,5 @@
 # 20220915 - Python - Python Advanced - Tuples and Sets
-# 02 - Students Grades - judge url: https://judge.softuni.org/Contests/Practice/Index/1832#1
+# 02 - Students Grades - judge: https://judge.softuni.org/Contests/Practice/Index/1832#1
 
 
 # _______________ version 1 _________________ judge 100%

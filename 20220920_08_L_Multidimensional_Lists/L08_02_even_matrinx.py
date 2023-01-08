@@ -1,5 +1,5 @@
 # 20220920 - Python - Python Advanced - Multidimensional Lists
-# 02 - Even Matrix - judge url: https://judge.softuni.org/Contests/Practice/Index/1834#1
+# 02 - Even Matrix - judge: https://judge.softuni.org/Contests/Practice/Index/1834#1
 
 
 # _______________ version 4 _________________ judge 100%

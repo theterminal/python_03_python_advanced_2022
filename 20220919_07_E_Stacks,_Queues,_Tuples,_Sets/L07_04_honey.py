@@ -1,5 +1,5 @@
 # 20220919 - Python - Python Advanced - Stacks, Queues, Tuples, Sets
-# 04 - Honey - judge url: https://judge.softuni.org/Contests/Compete/Index/3159#3
+# 04 - Honey - judge: https://judge.softuni.org/Contests/Compete/Index/3159#3
 
 
 # _______________ version 1 _________________ judge 100%

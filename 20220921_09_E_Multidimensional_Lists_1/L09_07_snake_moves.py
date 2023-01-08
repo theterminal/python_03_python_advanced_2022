@@ -1,5 +1,6 @@
 # 20220921 - Python - Python Advanced - Multidimensional Lists
-# 07 - Snake Moves - judge url: https://judge.softuni.org/Contests/Compete/Index/1835#6
+# 07 - Snake Moves - judge: https://judge.softuni.org/Contests/Compete/Index/1835#6
+
 
 # _______________ version 2 _________________ judge 100%
 

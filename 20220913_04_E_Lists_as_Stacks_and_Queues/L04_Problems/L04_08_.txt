@@ -1,0 +1,53 @@
+08. *Crossroads
+
+from collections import deque
+
+
+green_light = int(input())
+free_window = int(input())
+crashed = False
+time = green_light
+extra_time = free_window
+
+waiting_cars = deque()
+passed_safely = 0
+first_car = None
+while True:
+    time, extra_time = green_light, free_window  # reset the time !
+    command = input()
+    if command == 'END':
+        break
+    if command == 'green':
+        while waiting_cars:
+            first_car = waiting_cars[0]
+
+            if len(first_car) <= time:  # car passed safely on green light time
+                passed_safely += 1
+                time -= len(first_car)
+
+            elif time + extra_time >= len(first_car):  # car passed safely on extra time
+                passed_safely += 1
+                extra_time = (time + extra_time) - len(first_car)
+                time = 0
+
+            else:  # not even enter the cross road -> break
+                if time:  # crash -> break
+                    crashed = True
+                break
+
+            waiting_cars.popleft()  # after safely passed -> remove car from queue
+
+        if crashed:  # if crashed , stop all loops
+            break
+
+        continue
+
+    waiting_cars.append(command)
+
+if crashed:
+    index = time + extra_time  # index of crashed letter
+    print('A crash happened!')
+    print(f'{first_car} was hit at {first_car[index]}.')
+else:
+    print('Everyone is safe.')
+    print(f'{passed_safely} total cars passed the crossroads.')

@@ -1,5 +1,5 @@
 # 20220919 - Python - Python Advanced - Stacks, Queues, Tuples, Sets
-# 03 - Milkshakes - judge url: https://judge.softuni.org/Contests/Compete/Index/3159#2
+# 03 - Milkshakes - judge: https://judge.softuni.org/Contests/Compete/Index/3159#2
 
 
 # _______________ version 1 _________________ judge 100%

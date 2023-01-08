@@ -1,5 +1,5 @@
 20220923 - Python - Python Advanced - Multidimensional Lists
-05 - Alice in Wonderland - judge url: https://judge.softuni.org/Contests/Compete/Index/3194#4
+05 - Alice in Wonderland - judge: https://judge.softuni.org/Contests/Compete/Index/3194#4
 
 
 Alice is going to the mad tea party, to see her friends. On the way to the party, she needs to collect bags of tea.

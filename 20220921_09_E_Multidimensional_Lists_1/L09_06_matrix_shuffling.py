@@ -1,5 +1,5 @@
 # 20220921 - Python - Python Advanced - Multidimensional Lists
-# 06 - Matrix Shuffling - judge url: https://judge.softuni.org/Contests/Compete/Index/1835#5
+# 06 - Matrix Shuffling - judge: https://judge.softuni.org/Contests/Compete/Index/1835#5
 
 
 # _______________ version 2 _________________ judge 100%

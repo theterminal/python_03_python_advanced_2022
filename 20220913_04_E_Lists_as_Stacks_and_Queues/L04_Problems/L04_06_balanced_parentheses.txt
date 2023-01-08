@@ -1,5 +1,5 @@
 20220913 - Python - Python Advanced - Lists as Stacks and Queues
-06 - Balanced Parentheses - judge url: https://judge.softuni.org/Contests/Compete/Index/1831#5
+06 - Balanced Parentheses - judge: https://judge.softuni.org/Contests/Compete/Index/1831#5
 
 
 You will be given a sequence consisting of parentheses.

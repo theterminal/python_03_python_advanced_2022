@@ -1,5 +1,5 @@
 20220919 - Python - Python Advanced - Stacks, Queues, Tuples, Sets
-05 - Santa's Present Factory - judge url: https://judge.softuni.org/Contests/Compete/Index/3159#4
+05 - Santa's Present Factory - judge: https://judge.softuni.org/Contests/Compete/Index/3159#4
 
 
 This year Santa has decided to share his secret with you. Get ready to learn how his elves craft all the presents.

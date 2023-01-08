@@ -1,0 +1,29 @@
+10. *Cups and Bottles
+
+
+from collections import deque
+
+cups = deque([int(x) for x in input().split()])  # FIFO -> start from first index[0]
+bottles = deque([int(x) for x in input().split()])  # LIFO -> start from last index[-1]
+wasted_water = 0
+while True:
+    if not cups or not bottles:
+        break
+
+    first_cup = cups[0]
+    last_bottle = bottles.pop()
+
+    if last_bottle >= first_cup:
+        wasted_water += last_bottle - first_cup
+        cups.popleft()
+    else:
+        cups[0] -= last_bottle
+        if first_cup <= 0:
+            wasted_water += abs(first_cup)
+            cups.popleft()
+
+if not cups:
+    print(f"Bottles: {' '.join(str(x) for x in bottles)} ")
+if not bottles:
+    print(f"Cups: {' '.join(str(x) for x in cups)}")
+print(f'Wasted litters of water: {wasted_water}')

@@ -1,5 +1,5 @@
 # 20220921 - Python - Python Advanced - Multidimensional Lists
-# 04 - Maximal Sum - judge url: https://judge.softuni.org/Contests/Compete/Index/1835#3
+# 04 - Maximal Sum - judge: https://judge.softuni.org/Contests/Compete/Index/1835#3
 
 
 # _______________ version 1 _________________ judge 100%

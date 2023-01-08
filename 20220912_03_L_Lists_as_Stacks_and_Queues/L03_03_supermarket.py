@@ -1,5 +1,5 @@
 # 20220912 - Python - Python Advanced - Lists as Stacks and Queues
-# Supermarket - judge url: https://judge.softuni.org/Contests/Practice/Index/1830#2
+# Supermarket - judge: https://judge.softuni.org/Contests/Practice/Index/1830#2
 
 from collections import deque
 

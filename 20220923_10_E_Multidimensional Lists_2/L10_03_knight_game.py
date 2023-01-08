@@ -1,5 +1,5 @@
 # 20220923 - Python - Python Advanced - Multidimensional Lists
-# 03 - Knight Game - judge url: https://judge.softuni.org/Contests/Compete/Index/3194#2
+# 03 - Knight Game - judge: https://judge.softuni.org/Contests/Compete/Index/3194#2
 
 
 # _______________ version 2 _________________ judge 100%

@@ -1,5 +1,5 @@
 20220913 - Python - Python Advanced - Lists as Stacks and Queues
-07 - Robotics - judge url: https://judge.softuni.org/Contests/Compete/Index/1831#6
+07 - Robotics - judge: https://judge.softuni.org/Contests/Compete/Index/1831#6
 
 
 There is a robotics factory. The current project is assembly-line robots.

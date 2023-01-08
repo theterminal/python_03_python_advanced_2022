@@ -1,5 +1,5 @@
 20220921 - Python - Python Advanced - Multidimensional Lists
-07 - Snake Moves - judge url: https://judge.softuni.org/Contests/Compete/Index/1835#6
+07 - Snake Moves - judge: https://judge.softuni.org/Contests/Compete/Index/1835#6
 
 
 You are tasked to visualize a snake's zigzag path in a rectangular matrix with a size N x M.

@@ -1,5 +1,5 @@
 # 20220919 - Python - Python Advanced - Stacks, Queues, Tuples, Sets
-# 01 - Numbers - judge url: https://judge.softuni.org/Contests/Compete/Index/3159#0
+# 01 - Numbers - judge: https://judge.softuni.org/Contests/Compete/Index/3159#0
 
 
 # _______________ version 3 _________________ judge 100%

@@ -1,5 +1,5 @@
 20220923 - Python - Python Advanced - Multidimensional Lists
-01 - Flatten Lists - judge url: https://judge.softuni.org/Contests/Compete/Index/3194#0
+01 - Flatten Lists - judge: https://judge.softuni.org/Contests/Compete/Index/3194#0
 
 
 Write a program to flatten several lists of numbers received in the following format:

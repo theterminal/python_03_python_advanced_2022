@@ -1,5 +1,5 @@
 20220921 - Python - Python Advanced - Multidimensional Lists
-03 - 2x2 Squares in Matrix - judge url: https://judge.softuni.org/Contests/Compete/Index/1835#2
+03 - 2x2 Squares in Matrix - judge: https://judge.softuni.org/Contests/Compete/Index/1835#2
 
 
 Find the number of all 2x2 squares containing identical chars in a matrix.

@@ -1,5 +1,5 @@
 # 20220912 - Python - Python Advanced - Lists as Stacks and Queues
-# 05 - Hot Potato - judge url: https://judge.softuni.org/Contests/Practice/Index/1830#4
+# 05 - Hot Potato - judge: https://judge.softuni.org/Contests/Practice/Index/1830#4
 
 from collections import deque
 
