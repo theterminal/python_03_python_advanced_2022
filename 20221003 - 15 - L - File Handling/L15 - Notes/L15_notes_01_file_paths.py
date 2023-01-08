@@ -28,9 +28,9 @@ print('\n-------------------\n')
 
 # from current location (the file we're working in),
 # go 2 levels up,
-# go into another directory (20220915 - 05 - L - Tuples and Sets),
+# go into another directory (20220915_05_L_Tuples_and_Sets),
 # open another file (L05_01_count_same_values.py)
-file_path = '../../20220915 - 05 - L - Tuples and Sets/L05_01_count_same_values.py'
+file_path = '../../20220915_05_L_Tuples_and_Sets/L05_01_count_same_values.py'
 
 print(file_path)
 print(path.abspath(file_path))                      # it returns the absolute path from the given relative (file_path)
